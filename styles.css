@@ -24,3 +24,48 @@ h1 {
     font-style: italic;
     color: #999;
 }
+
+#temperature {
+
+    color: black;
+    font-weight: bold;
+    font-size: 15px;
+    background-color: lightgreen;
+    text-align: center;
+    border-radius: 50%;
+    border: black solid 1px;
+}
+
+#wind {
+
+    color: black;
+    font-weight: bold;
+    font-size: 25px;
+    background-color: lightseagreen;
+    text-align: center;
+    border-radius: 50%;
+    border: black solid 1px;
+    
+}
+
+#description {
+
+    color: black;
+    font-weight: bold;
+    font-size: 35px;
+    background-color: green;
+    text-align: center;
+    border-radius: 50%;
+    border: black solid 1px;
+
+}
+
+#city {
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+    background-color: lightskyblue;
+    border: black solid 1px;
+    border-radius: 50%;
+    text-align: center;
+}
